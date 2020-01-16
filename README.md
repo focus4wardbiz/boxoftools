@@ -1,2 +1,2 @@
 # boxoftools
-BoxOfTools Website Github SYnc
+BoxOfTools Website Github Sync
